@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Webgentle.BookStore
+build_property.ProjectDir = D:\.Net Applications\ASP\Webgentle.BookStore\Webgentle.BookStore\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
